@@ -1,0 +1,67 @@
+BOOTSTRAP 4.6;
+
+Bootstrap is used as a framework  for building responsiveness in devices.
+
+CAN BE ADDED INTO TWO WAYS;
+
+1)CDN-Content delivery network.
+2)Installing through file.
+
+FRAMEWORK ; additional style is called framework.
+
+LAYOUT;
+layout is used to make design easy by classifying the portions of document.
+
+CONTAINERS;
+containers are used to store the elements and center the contents within them.
+
+You can use multiple container in document.
+GRID;
+
+Combination of row and column are called as grid.
+
+BOOTSTRAP HAS 3 CONTAINERS;
+
+1) CONTAINER - max -width at each responsive break point.
+
+2)CONTAINER-FLUID- 100% at all breakpoints.
+
+3)CONTAINER-BREAKPOINT(sm,md,lg,xl) - 100% until breakpoint.
+1)container-sm
+2) container-md
+3) container-lg
+4) container-xl
+
+DEVICES CATEGORIES;
+
+1)XS-extrasmall
+2)SM-small
+3)MD-medium
+4)LG-large
+5)XL-extra large
+
+GRID SYSTEM;
+
+twelve column system.
+
+WHY?
+
+12 can be easily divided into portions(4:4:4,6:6,3:3:3:3,2:2:2:2:2:2)
+
+One percent = (1/12)*100 =8.33%
+
+BOOTSTRAP FLOW OF ELEMENTS;
+Container =>Row=>column
+
+CONTAINER CAN HAVE MANY ROWS.
+BUT ONE ROW ALSO CAN HAVE MORE THAN 12 (0R) LESS THAN 12 COLUMN (BUT MOST PREFERRABLE COLUMN IS LESS THAN 12 IN ONE ROW).
+
+SYNTAX;
+shortcut to create container row and column
+
+.container>.row>.column
+
+
+DAY-6;
+
+BLOG TASK
